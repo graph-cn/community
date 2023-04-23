@@ -10,11 +10,11 @@
 ## 关于发起人
 大叶，一名图数据库爱好者，目前是一名开源软件开发者。
 - 个人主页：CorvusYe [GitHub](https://github.com/CorvusYe) | [Gitee](https://gitee.com/CorvusYe)
-- 个人探索开源商业化的组织主页：dudu-ltd [GitHub](https://github.com/dudu-ltd) | [GitHub](https://gitee.com/dudu-ltd)
+- 个人探索开源商业化的组织主页：dudu-ltd [GitHub](https://github.com/dudu-ltd) | [Gitee](https://gitee.com/dudu-ltd)
 - 正在筹备的非盈利图社区主页：graph-cn [GitHub](https://github.com/graph-cn) | [Gitee](https://gitee.com/graph-cn)
 
 ## 发起人图相关的主要作品
 - 图技术相关主要作品：
   - flutter_graph_view：[GitHub](https://github.com/dudu-ltd/flutter_graph_view) | [Gitee](https://gitee.com/dudu-ltd/flutter_graph_view) | [Flutter包仓库](https://pub.flutter-io.cn/packages/flutter_graph_view)
   - ngbatis：[GitHub](https://github.com/nebula-contrib/ngbatis) | [Gitee](https://gitee.com/CorvusYe/ngbatis) | [Maven仓库](https://central.sonatype.com/artifact/org.nebula-contrib/ngbatis)
-  - neurodb_dart_driver: [GitHub](https://github.com/dudu-ltd/neurodb_dart_driver) | [Gitee](https://gitee.com/dudu-ltd/neurodb_dart_driver) | [Flutter包仓库](https://pub.flutter-io.cn/packages/neurodb_dart_driver)
+  - neurodb_dart_driver: [GitHub](https://github.com/graph-cn/neurodb_dart_driver) | [Gitee](https://gitee.com/graph-cn/neurodb_dart_driver) | [Flutter包仓库](https://pub.flutter-io.cn/packages/neurodb_dart_driver)
