@@ -13,10 +13,14 @@
 - 个人探索开源商业化的组织主页：dudu-ltd [GitHub](https://github.com/dudu-ltd) | [Gitee](https://gitee.com/dudu-ltd)
 - 正在筹备的非盈利图社区主页：graph-cn [GitHub](https://github.com/graph-cn) | [Gitee](https://gitee.com/graph-cn)
 
-## 发起人图相关的主要作品
-- 图技术相关主要作品：
-  - flutter_graph_view：[GitHub](https://github.com/dudu-ltd/flutter_graph_view) | [Gitee](https://gitee.com/dudu-ltd/flutter_graph_view) | [Flutter包仓库](https://pub.flutter-io.cn/packages/flutter_graph_view)
-  - ngbatis：[GitHub](https://github.com/nebula-contrib/ngbatis) | [Gitee](https://gitee.com/CorvusYe/ngbatis) | [Maven仓库](https://central.sonatype.com/artifact/org.nebula-contrib/ngbatis)
-  - neurodb_dart_driver: [GitHub](https://github.com/graph-cn/neurodb_dart_driver) | [Gitee](https://gitee.com/graph-cn/neurodb_dart_driver) | [Flutter包仓库](https://pub.flutter-io.cn/packages/neurodb_dart_driver)
+## 发起人图相关的开源作品
+项目名 | 简介 | 源代码仓库 | 依赖包仓库
+---|---|---|---
+dart_gdbc | 正在制定的dart语言图数据库客户端连接通用接口 | [GitHub](https://github.com/graph-cn/dart_gdbc) [Gitee](https://gitee.com/graph-cn/dart_gdbc) | [Flutter包仓库](https://pub.flutter-io.cn/packages/dart_gdbc)
+nebula_dart_gdbc | NebulaGraph 的 dart 语言客户端 | [GitHub](https://github.com/graph-cn/nebula_dart_gdbc) [Gitee](https://gitee.com/graph-cn/nebula_dart_gdbc) |  [Flutter包仓库](https://pub.flutter-io.cn/packages/nebula_dart_gdbc)
+ngbatis | NebulaGraph 的 java orm 框架（归属于 [nebula-contrib](https://github.com/nebula-contrib/)） | [GitHub](https://github.com/nebula-contrib/ngbatis)  [Gitee](https://gitee.com/CorvusYe/ngbatis) |  [Maven仓库](https://central.sonatype.com/artifact/org.nebula-contrib/ngbatis)
+neurodb_dart_driver | neurodb的数据库dart客户端 | [GitHub](https://github.com/graph-cn/neurodb_dart_driver) [Gitee](https://gitee.com/graph-cn/neurodb_dart_driver) | [Flutter包仓库](https://pub.flutter-io.cn/packages/neurodb_dart_driver)
+flutter_graph_view | 图数据可视化Flutter插件 | [GitHub](https://github.com/dudu-ltd/flutter_graph_view) [Gitee](https://gitee.com/dudu-ltd/flutter_graph_view) | [Flutter包仓库](https://pub.flutter-io.cn/packages/flutter_graph_view)
+
 
 <div style="margin-top: 200px; text-align: right;">版权所有 © 2023-， 图社区 丨<a href="https://beian.miit.gov.cn/">闽ICP备18020284号-1</a></div>
